@@ -1,6 +1,6 @@
 # FizzBuzzTest
 
-```
+``` CSharp
 using System;
 
 namespace FizzBuzzTest
